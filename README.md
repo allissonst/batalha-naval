@@ -1,8 +1,10 @@
 <html>
   <body>
-<h1>Jogo de batalha naval feito em Python para o Projeto Final da Disciplina de Algoritmo e Programação Estruturada do curso de Sistemas para Internet do IFPB. </h1>
+    <h1>Jogo de batalha naval feito em Python para o Projeto Final da Disciplina de Algoritmo e Programação Estruturada do curso de Sistemas para Internet do IFPB. </h1>
 
-<h2>Regras do jogo: </h2>
+    <a href="https://replit.com/@allissont/batalha-naval-1#main.py">Clique aqui para jogar on-line</a>
+    
+    <h2>Regras do jogo: </h2>
 
 O tabuleiro de cada jogador deverá ser representado por uma matriz quadrada de ordem 10, sendo as linhas identificadas por letras (A a J) e as colunas por números (1 a 10).
 
