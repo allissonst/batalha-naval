@@ -4,7 +4,7 @@
 
    <p> <a href="https://replit.com/@allissont/batalha-naval-1#main.py">Clique aqui para jogar on-line</a></p>
     
-    <h2>Regras do jogo: </h2>
+  <p><h2>Regras do jogo:</h2></p>
 
 O tabuleiro de cada jogador deverá ser representado por uma matriz quadrada de ordem 10, sendo as linhas identificadas por letras (A a J) e as colunas por números (1 a 10).
 
