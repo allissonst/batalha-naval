@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1>Jogo de batalha naval feito em Python para o Projeto Final da Disciplina de Algoritmo e Programação Estruturada do curso de Sistemas para Internet do IFPB. </h1>
+    <h1>:arrow_forward: Jogo de batalha naval feito em Python</h1>
 
    <p> <a href="https://replit.com/@allissont/batalha-naval-1#main.py">Clique aqui para jogar on-line</a></p>
     
